@@ -1,1 +1,2 @@
 # kobok
+tea testnet
